@@ -59,7 +59,7 @@ print(result)
 - **Algorithm**: XGBoost with optimized hyperparameters
 - **Training data**: 100,000 synthetic samples with realistic correlations
 
-##ScreenShoot
+## ScreenShoot
 
 <img width="841" height="662" alt="Screenshot 2025-11-23 at 9 15 08 PM" src="https://github.com/user-attachments/assets/df626b96-e831-4e87-81ad-88a9341ab9ba" />
 
